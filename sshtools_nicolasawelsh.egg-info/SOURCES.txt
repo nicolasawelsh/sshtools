@@ -1,0 +1,7 @@
+README.md
+setup.py
+sshtools_nicolasawelsh.egg-info/PKG-INFO
+sshtools_nicolasawelsh.egg-info/SOURCES.txt
+sshtools_nicolasawelsh.egg-info/dependency_links.txt
+sshtools_nicolasawelsh.egg-info/top_level.txt
+sshtools_pkg/__init__.py

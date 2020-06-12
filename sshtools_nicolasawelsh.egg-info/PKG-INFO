@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: sshtools-nicolasawelsh
+Version: 2020.6
+Summary: A package containing tools to deal with manipulations within ssh
+Home-page: https://github.com/nicolasawelsh/sshtools.git
+Author: Nicolas Welsh
+Author-email: nicolas.a.welsh@gmail.com
+License: UNKNOWN
+Description: # sshtools
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
