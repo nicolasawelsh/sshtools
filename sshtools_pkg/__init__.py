@@ -1,5 +1,1 @@
-import connect
-import system
-import setup
-import getdir
-import rmdir
+__all__ = ['connect', 'system', 'getdir', 'rmdir']
