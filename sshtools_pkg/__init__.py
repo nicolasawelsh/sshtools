@@ -1,1 +1,1 @@
-__all__ = ['connect', 'system', 'getdir', 'rmdir']
+__all__ = ['connect', 'system', 'getdir', 'putdir', 'rmdir']
